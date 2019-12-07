@@ -7,4 +7,5 @@ Final Project: Soccer Player Transfer Value Prediction
 * Sean Tey ([@seantey](https://github.com/seantey))
 * Andrew Young ([@andrewhowcool](https://github.com/andrewhowcool))
 
-Data Source: [FIFA 19 Complete Player Dataset](https://www.kaggle.com/karangadiya/fifa19)
+### Data Source
+* [FIFA 19 Complete Player Dataset](https://www.kaggle.com/karangadiya/fifa19)
